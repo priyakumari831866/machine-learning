@@ -1,0 +1,11 @@
+Name,Gender,Age,Department,Salary,City,Purchased
+Alice,Female,28,HR,55000,New York,No
+Bob,Male,,IT,72000,Chicago,Yes
+Charlie,,35,Finance,68000,,No
+David,Male,42,IT,,Boston,Yes
+Emma,Female,29,,61000,New York,Yes
+Frank,Male,31,Finance,59000,Chicago,No
+Grace,Female,,HR,52000,,No
+Henry,Male,40,IT,85000,Boston,Yes
+Ivy,,24,Marketing,,Chicago,No
+Jack,Male,36,Marketing,64000,New York,Yes
